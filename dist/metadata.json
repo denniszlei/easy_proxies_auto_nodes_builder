@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-27T22:14:24.264809+00:00",
+  "generated_at": "2026-08-28T11:20:57.877040+00:00",
   "sources": {
     "subscription": "https://imtaqin.id/api/vpn/sub/all",
     "json": "https://imtaqin.id/api/proxies",
-    "json_updated": "2026-08-27T22:14:22.446Z"
+    "json_updated": "2026-08-28T11:20:56.297Z"
   },
-  "node_count": 3317,
+  "node_count": 3379,
   "protocol_counts": {
-    "http": 2262,
-    "socks5": 456,
+    "http": 2349,
+    "socks5": 431,
     "ss": 200,
     "trojan": 199,
     "vmess": 200
